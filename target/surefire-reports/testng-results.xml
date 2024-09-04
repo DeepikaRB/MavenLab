@@ -5,42 +5,42 @@
       <![CDATA[Passed]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-09-03T16:22:19 PDT" name="Suite" finished-at="2024-09-03T16:23:43 PDT" duration-ms="83956">
+  <suite started-at="2024-09-04T16:28:10 PDT" name="Suite" finished-at="2024-09-04T16:29:12 PDT" duration-ms="62001">
     <groups>
     </groups>
-    <test started-at="2024-09-03T16:22:19 PDT" name="Test" finished-at="2024-09-03T16:23:43 PDT" duration-ms="83956">
+    <test started-at="2024-09-04T16:28:10 PDT" name="Test" finished-at="2024-09-04T16:29:12 PDT" duration-ms="62001">
       <class name="testScenarios.SwitchAlerts">
-        <test-method signature="alerts()[pri:0, instance:testScenarios.SwitchAlerts@147ed70f]" started-at="2024-09-03T16:22:55 PDT" name="alerts" finished-at="2024-09-03T16:23:09 PDT" duration-ms="14076" status="PASS">
+        <test-method signature="alerts()[pri:0, instance:testScenarios.SwitchAlerts@7ee955a8]" started-at="2024-09-04T16:28:26 PDT" name="alerts" finished-at="2024-09-04T16:28:35 PDT" duration-ms="8582" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- alerts -->
       </class> <!-- testScenarios.SwitchAlerts -->
       <class name="testScenarios.HandlingDynData">
-        <test-method signature="dynDataMath()[pri:0, instance:testScenarios.HandlingDynData@65d6b83b]" started-at="2024-09-03T16:22:19 PDT" name="dynDataMath" finished-at="2024-09-03T16:22:23 PDT" duration-ms="3955" status="PASS">
+        <test-method signature="dynDataMath()[pri:0, instance:testScenarios.HandlingDynData@6193932a]" started-at="2024-09-04T16:28:10 PDT" name="dynDataMath" finished-at="2024-09-04T16:28:14 PDT" duration-ms="4125" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dynDataMath -->
       </class> <!-- testScenarios.HandlingDynData -->
       <class name="testScenarios.Vindeep">
-        <test-method signature="vindeep()[pri:0, instance:testScenarios.Vindeep@61dd025]" started-at="2024-09-03T16:23:09 PDT" name="vindeep" finished-at="2024-09-03T16:23:21 PDT" duration-ms="11393" status="PASS">
+        <test-method signature="vindeep()[pri:0, instance:testScenarios.Vindeep@1677d1]" started-at="2024-09-04T16:28:35 PDT" name="vindeep" finished-at="2024-09-04T16:28:46 PDT" duration-ms="11492" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- vindeep -->
       </class> <!-- testScenarios.Vindeep -->
       <class name="testScenarios.MouseActions">
-        <test-method signature="dragAnddrop()[pri:0, instance:testScenarios.MouseActions@124c278f]" started-at="2024-09-03T16:23:21 PDT" name="dragAnddrop" finished-at="2024-09-03T16:23:31 PDT" duration-ms="10155" status="PASS">
+        <test-method signature="dragAnddrop()[pri:0, instance:testScenarios.MouseActions@48fa0f47]" started-at="2024-09-04T16:28:46 PDT" name="dragAnddrop" finished-at="2024-09-04T16:29:00 PDT" duration-ms="13883" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dragAnddrop -->
       </class> <!-- testScenarios.MouseActions -->
       <class name="testScenarios.SwitchingWin">
-        <test-method signature="switchWind()[pri:0, instance:testScenarios.SwitchingWin@4278a03f]" started-at="2024-09-03T16:22:23 PDT" name="switchWind" finished-at="2024-09-03T16:22:55 PDT" duration-ms="31683" status="PASS">
+        <test-method signature="switchWind()[pri:0, instance:testScenarios.SwitchingWin@12e61fe6]" started-at="2024-09-04T16:28:14 PDT" name="switchWind" finished-at="2024-09-04T16:28:26 PDT" duration-ms="12323" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- switchWind -->
       </class> <!-- testScenarios.SwitchingWin -->
       <class name="testScenarios.MultipleListBox">
-        <test-method signature="multiList()[pri:0, instance:testScenarios.MultipleListBox@15b204a1]" started-at="2024-09-03T16:23:31 PDT" name="multiList" finished-at="2024-09-03T16:23:43 PDT" duration-ms="12648" status="PASS">
+        <test-method signature="multiList()[pri:0, instance:testScenarios.MultipleListBox@6ac13091]" started-at="2024-09-04T16:29:00 PDT" name="multiList" finished-at="2024-09-04T16:29:12 PDT" duration-ms="11561" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Passed]]>
